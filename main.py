@@ -69,7 +69,7 @@ Best of luck !!!
 
 """)
 display=["_" for i in range(len(word))]
-print('Final answer', word)
+#print('Final answer', word)
 while chances>0:
     k=0
     guess=input('Enter a guess letter : \n').lower()
